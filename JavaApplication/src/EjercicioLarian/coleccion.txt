@@ -1,0 +1,60 @@
+Formula{
+	Velocidad Punta: 350Km/h.
+	Piloto: Fernando Alonso.
+	CampeonatosGanados: 2 veces.}
+------------------------------------------------
+Formula{
+	Velocidad Punta: 340Km/h.
+	Piloto: Lewis Hamilton.
+	CampeonatosGanados: 7 veces.}
+------------------------------------------------
+Formula{
+	Velocidad Punta: 360Km/h.
+	Piloto: Max Verstappen.
+	CampeonatosGanados: 3 veces.}
+------------------------------------------------
+Formula{
+	Velocidad Punta: 330Km/h.
+	Piloto: Ayrton Senna.
+	CampeonatosGanados: 3 veces.}
+------------------------------------------------
+Formula{
+	Velocidad Punta: 320Km/h.
+	Piloto: Michael Schumacher.
+	CampeonatosGanados: 7 veces.}
+------------------------------------------------
+GT (Gran Turismo){
+	Modelo: DB11.
+	Puertas: 2.
+	Marca: Aston Martin.
+	Cilindrada: 5200CV (caballos de fuerza).
+	Motor: V12.}
+------------------------------------------------
+GT (Gran Turismo){
+	Modelo: Panamera.
+	Puertas: 4.
+	Marca: Porsche.
+	Cilindrada: 4800CV (caballos de fuerza).
+	Motor: V8.}
+------------------------------------------------
+GT (Gran Turismo){
+	Modelo: Mustang.
+	Puertas: 2.
+	Marca: Ford.
+	Cilindrada: 5000CV (caballos de fuerza).
+	Motor: V8.}
+------------------------------------------------
+GT (Gran Turismo){
+	Modelo: M5.
+	Puertas: 4.
+	Marca: BMW.
+	Cilindrada: 4400CV (caballos de fuerza).
+	Motor: V8.}
+------------------------------------------------
+GT (Gran Turismo){
+	Modelo: Giulia.
+	Puertas: 4.
+	Marca: Alfa Romeo.
+	Cilindrada: 2900CV (caballos de fuerza).
+	Motor: V6.}
+------------------------------------------------
